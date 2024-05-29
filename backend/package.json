@@ -1,0 +1,24 @@
+{
+  "name": "e-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpstylish/dashboard.git"
+  },
+  "author": "rpstylish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpstylish/dashboard/issues"
+  },
+  "homepage": "https://github.com/rpstylish/dashboard#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
