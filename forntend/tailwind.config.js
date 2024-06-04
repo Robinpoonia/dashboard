@@ -6,6 +6,10 @@ module.exports = {
       colors: {
         bgDark: "#22223b",
         bgDark2: "#4a4e69",
+        bg1: "#77B0AA",
+        bgligth: "#E3FEF7",
+        darkbg:"#003C43",
+        bglight1:"#135D66"
       },
     },
   },
